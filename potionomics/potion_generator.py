@@ -5,16 +5,24 @@ from typing import List
 
 
 class Inventor:
-    def __init__(self, special_values, max_ingredients):
-        self.special_values = special_values
+    def __init__(self, max_ingredients):
         self.max_ingredients = max_ingredients
 
     def Invent(self, recipe: Recipe, values: range, ingredients: List[Ingredient]) -> List[Potion]:
-        optimals = optimalValues(recipe, self.special_values, values)
+        optimals = optimalValues2(recipe, values)
         for o in optimals:
-            for p in GeneratePotions(ingredients, self.max_ingredients, o, True):
+            for p in GeneratePotions(ingredients, self.max_ingredients, o):
                 yield p
 
+def optimalValues2(recipe: Recipe, values: range):
+    s = np.sum(recipe.recipe())
+    for v in pickFactor2(s, values):
+        yield np.multiply(recipe.recipe(), v, dtype=int)
+
+def pickFactor2(ratio_sum, r):
+    for v in r:
+        if v % ratio_sum == 0:
+            yield int(v/ratio_sum)
 
 def optimalValues(recipe: Recipe, special_values: List[int], values: range):
     s = np.sum(recipe.recipe())

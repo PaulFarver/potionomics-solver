@@ -62,9 +62,33 @@ class Potion:
             c += i.base_price * v
         return c
 
+    def traits(self):
+        t = set()
+        for i, v in self.ingredients.items():
+            for trait in i.traits:
+                
+                if trait.__contains__("positive"):
+                    t.add(trait.replace("positive", "").replace(" ", "").replace("Trait", ""))
+        return t
+
+    def note(self):
+        s = str(self.cost()) + "g " 
+        s += str(np.sum([i.spec() * v for i, v in self.ingredients.items()])) + " "
+        for t in self.traits():
+            s += f"{t} "
+        for i, v in self.ingredients.items():
+            s += f"[{str(v)}x {i.name}] "
+        return s
+
     def __str__(self):
         # return str(self.ingredients)
-        s = ""
+        # Print gold in color
+        s = "\033[33m" + str(self.cost()) + "g\033[0m " 
+        s += str(np.sum([i.spec() * v for i, v in self.ingredients.items()])) + " "
+        for t in self.traits():
+            s += f"{t} "
         for i, v in self.ingredients.items():
-            s += str(v) + "x " + str(i) + ", "
+            # Print ingredients in grey
+            s += "\033[90m["  + str(v) + "x " + i.name + "]\033[0m "
+            # s += str(v) + "x " + str(i) + ", "
         return s
