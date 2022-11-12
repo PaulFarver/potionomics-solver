@@ -1,0 +1,206 @@
+Fairy Flower Bulb,1,Flower,4,4,0,0,0,0,,,Aroma Trait positive,,,14
+Impstool Mushroom,1,Mushroom,4,0,4,0,0,0,,Sensation Trait positive,,,,17
+Rotfly Larva,1,Insect,4,0,0,4,0,0,Taste Trait positive,,,,,10
+Feyberry,1,Fruit,6,6,0,0,0,0,,,,,,4
+Mandrake Root,1,Plant,6,0,6,0,0,0,,,,,,6
+Sack of Slime,1,Slime,6,0,0,6,0,0,,,,,,7
+River Calamari,1,Fish,8,8,0,0,0,0,,Sensation Trait negative,,,,5
+Serpents Slippery Tongue,1,Flesh,8,0,8,0,0,0,,,Aroma Trait negative,,,6
+Unicorn Horn,1,Bone,8,0,0,8,0,0,Taste Trait negative,,,,,6
+River Pixies Shell,2,Mineral,8,4,4,0,0,0,,,,,,11
+Kappa Pheromones,2,Essence,8,4,0,4,0,0,,,,,,13
+Pixiedust Diamond,2,Gem,8,0,4,4,0,0,,,,,,14
+Cubic Ooze,3,Slime,9,3,3,3,0,0,,,,,,16
+Trollstool Mushroom,1,Fungus,12,0,12,0,0,0,,Sensation Trait positive,,,,20
+Murkwater Pearl,2,Gem,12,0,0,0,12,0,,,,Visual Trait positive,,27
+Bog Beet,3,Plant,27,0,27,0,0,0,Taste Trait negative,,,,Sound Trait positive,27
+Ravens Shadow,3,Essence,40,0,10,12,18,0,,,,,,52
+Wraith Orchid,1,Flower,12,0,0,0,12,0,,,,,,19
+Puckberry,1,Fruit,18,18,0,0,0,0,,,,,,16
+Swamp Octopus,1,Fish,24,24,0,0,0,0,,Sensation Trait negative,,,,18
+Crocodile Tooth,1,Bone,18,6,0,12,0,0,,,,,,20
+Sack of Hive Slime,1,Slime,18,0,0,18,0,0,,,,,,21
+Swamp Fish,1,Fish,18,12,0,0,6,6,,,,,,22
+Warg Pheromones,2,Essence,24,12,0,12,0,0,,,,,,26
+Ghostlight Bloom,2,Flower,24,18,0,0,6,0,,,,,,28
+Moss Berries,1,Fruit,30,0,10,20,0,0,,,,,,35
+Bubble Ooze,4,Slime,42,9,9,12,12,0,,,,,,60
+Miasma Spore,2,Fungus,24,0,18,0,6,0,,,,,,30
+Mud Shrimp,3,Fish,18,6,0,12,0,0,,,Aroma Trait positive,,,53
+Hydra Vertebra,1,Bone,27,9,9,9,0,0,,,,,,35
+Qilins Tri Horn,1,Bone,24,0,0,24,0,0,Taste Trait negative,,,,,18
+Fairy Flower Bud,1,Flower,12,12,0,0,0,0,,,Aroma Trait positive,,,23
+Leech Snail's Shell,2,Mineral,24,12,12,0,0,0,,,,,,26
+Golem's-Eye Diamond,2,Gem,24,0,12,12,0,0,,,,,,28
+Desert Metal,,Ore,12,0,12,0,0,0,,Sensation Trait positive,,,,25
+Rotfly Cocoon,2,Bug,12,0,0,12,0,0,Taste Trait positive,,,,,25
+Sphinx Flea,3,Bug,18,12,6,0,0,0,,Sensation Trait positive,,,,35
+Manwyrm Root,1,Plant,18,0,18,0,0,0,,,,,,14
+Figment Pomme,2,Fruit,24,0,18,6,0,0,,,,,,26
+Glass Ore,1,Ore,18,0,0,0,18,0,,,,,,24
+Salamander's Fiery Tongue,1,Flesh,24,0,24,0,0,0,,,Aroma Trait negative,,,22
+Frog Leg,4,Flesh,36,0,0,24,12,0,,,,Visual Trait negative,,33
+Golomite,3,Mineral,40,18,12,0,10,0,,,,,,38
+Horned Jelly,2,Slime,18,18,0,0,0,0,,Sensation Trait negative,,Visual Trait positive,,20
+Thunderbird's Molted Feather,3,Flesh,40,0,0,30,0,10,,,,,,60
+Giantstool Mushroom,1,Fungus,20,0,20,0,0,0,,Sensation Trait positive,,,,40
+Fire Flower,3,Flower,60,40,0,0,20,0,,,Aroma Trait negative,,,55
+Copper Dollop,3,Slime,60,15,15,15,15,0,,,,,,95
+Static Spiderling,3,Bug,30,0,0,0,0,30,,,,Visual Trait negative,Sound Trait positive,50
+Slapping Turtle's Shell,1,Mineral,40,20,20,0,0,0,,,,,,46
+Antlered Jelly,2,Slime,30,30,0,0,0,0,,Sensation Trait negative,,Visual Trait positive,,28
+Fulgurite Ore,2,Ore,30,0,0,0,30,0,,,,,,40
+Raiju Droppings,2,Essence,40,0,0,30,10,0,,,,,,55
+Electrocution Eel,2,Fish,30,10,10,10,0,0,,,,Visual Trait positive,,45
+Bogeyberry,1,Fruit,30,30,0,0,0,0,,,,,,30
+Spriggan Antler,2,Bone,40,0,0,40,0,0,Taste Trait negative,,,,,38
+Thunder Quartz,2,Gem,60,30,10,20,0,0,,,,,,72
+Mandragon Root,1,Plant,30,0,30,0,0,0,,,,,,34
+Dwarf Kraken,1,Fish,40,40,0,0,0,0,,Sensation Trait negative,,,,30
+Reef Radish,3,Plant,30,0,30,0,0,0,Taste Trait negative,,,,Sound Trait positive,32
+Rotfly Adult,2,Bug,20,0,0,20,0,0,Taste Trait positive,,,,,38
+Saltwatermelon,2,Fruit,40,0,0,0,40,0,,,,Visual Trait negative,,44
+Selkie Lice,3,Bug,30,10,20,0,0,0,,Sensation Trait positive,,,,50
+Nessie Pheromones,1,Essence,40,20,0,20,0,0,,,,,,50
+Jelly Blossom,3,Flower,30,0,0,0,0,30,,,,,,55
+Sea Salt,2,Mineral,40,30,0,0,0,10,,,,,,55
+Phanom Pomme,4,Fruit,40,0,10,30,0,0,Taste Trait positive,,,,Sound Trait negative,64
+Abyssalite,2,Mineral,60,10,20,0,0,10,,,,,,79
+Malachite Ore,3,Ore,60,30,10,0,0,20,,,,,,93
+Squid Vine,3,Plant,70,20,20,15,0,15,,,,,,135
+Banshee's Bloody Tongue,1,Flesh,40,0,40,0,0,0,,,Aroma Trait negative,,,32
+Fairy Flower Bloom,1,Flower,20,20,0,0,0,0,,,Aroma Trait positive,,,35
+Hallucinatory Shroom,3,Fungus,30,0,0,30,0,0,Taste Trait positive,,,,Sound Trait negative,36
+Sack of Composite Slime,1,Slime,30,0,0,30,0,0,,,,,,36
+Shadowveil Pearl,2,Gem,20,0,0,0,20,0,,,,Visual Trait positive,,38
+Cobweb Crayfish,3,Fish,30,10,0,20,0,0,,,Aroma Trait positive,,,48
+Spider's-Bait Diamond,2,Gem,40,0,20,20,0,0,,,,,,50
+Barghast Canine,,Bone,40,0,30,0,0,10,,,,,,55
+Photonic Spore,4,Fungus,40,0,10,0,30,0,Taste Trait negative,,Aroma Trait positive,,,52
+Dropspider's Shadow,3,Essence,60,0,0,30,20,10,,,,,,90
+Mosquito Plant,4,Plant,60,10,0,20,0,30,,,,,,105
+Mote of Mana,4,Pure Mana,75,15,15,15,15,15,,,,,,130
+Bramble-Rose,2,Flower,16,16,0,0,0,0,,Sensation Trait positive,,,Sound Trait positive,45
+Acid Rutabaga,1,Plant,48,0,48,0,0,0,Taste Trait negative,,,,Sound Trait positive,54
+Rotfly Matriarch,1,Bug,32,0,0,32,0,0,Taste Trait positive,,,,,65
+Weeping Metal Ore,1,Ore,96,0,32,64,0,0,,Sensation Trait negative,,,,66
+Rottermelon,1,Fruit,64,0,0,0,64,0,,,,Visual Trait negative,,68
+Daydream Pomme,3,Fruit,32,0,24,8,0,0,,,,Visual Trait positive,Sound Trait positive,75
+Scimitar Crab's Shell,1,Mineral,64,32,32,0,0,0,,,,,,76
+Shelled Pudding,1,Slime,64,32,0,0,32,0,,,,,,90
+Creeping Mildew,2,Fungus,64,16,0,0,0,48,,,,,,92
+Hangman Eel,2,Fish,72,24,24,24,0,0,,,,,,95
+Naga's Fang,1,Bone,64,0,48,0,0,16,,Sensation Trait negative,,,Sound Trait positive,98
+Lamia's Shed Scales,2,Flesh,64,0,0,0,48,16,,,,,,110
+Bioplasm,3,Essence,96,0,48,32,16,0,,,,Visual Trait negative,Sound Trait positive,125
+Acid Pitfall Plant,2,Plant,96,16,0,40,0,40,,,,,,145
+Poison Quartz,3,Gem,144,64,48,0,32,0,,,,,Sound Trait negative,185
+Charrdonnay,3,Fruit,144,48,0,48,24,24,Taste Trait negative,,,,,260
+Silver Stag Anter,1,Bone,64,0,0,64,0,0,Taste Trait negative,,,,,72
+Celestial Ore,2,Ore,16,0,0,16,0,0,,,Aroma Trait positive,Visual Trait positive,,45
+Feathered Gelatin,2,Slime,48,0,0,0,48,0,,Sensation Trait positive,Aroma Trait negative,,,62
+Rock Salt,2,Mineral,32,24,0,0,0,8,Taste Trait positive,,,Visual Trait positive,,68
+Courtier's Orchid,4,Flower,56,8,24,24,0,0,,,Aroma Trait positive,,,72
+Crag Crab,3,Fish,32,0,0,0,0,32,,,Aroma Trait positive,,,75
+Harpy's Heart of Stone,2,Flesh,48,16,0,0,32,0,,Sensation Trait positive,,,,76
+Sepulcher Widow,2,Bug,48,0,0,0,0,48,,,,Visual Trait negative,Sound Trait positive,82
+Watchdog Daisy,1,Flower,64,0,16,0,48,0,,,,,,83
+Griffin's-Whetstone Diamond,1,Gem,64,0,32,32,0,0,,,,,,86
+Medusa Spore,1,Fungus,64,0,48,0,16,0,Taste Trait negative,,Aroma Trait positive,,,94
+Supernalite,3,Mineral,96,48,32,0,16,0,Taste Trait negative,,,Visual Trait positive,,134
+Buoyant Blowfish,2,Fish,144,96,0,48,0,0,,,,,,138
+Avalanche Cricket,1,Bug,112,24,24,32,32,0,Taste Trait positive,Sensation Trait negative,,,,140
+Harpy's Snare,4,Plant,96,24,24,24,0,24,,,,,,150
+Stalking Skeleton's Fibula,2,Bone,96,0,0,40,40,16,,,,,,150
+Ember of Mana,4,Pure Mana,120,24,24,24,24,24,,,,,,165
+Eye of Newt,2,Flesh,16,0,16,0,0,0,Taste Trait positive,Sensation Trait positive,,,,34
+Delirium Shroom,1,Fungus,48,0,0,48,0,0,Taste Trait positive,,,,Sound Trait negative,63
+Djinn Blossom,2,Flower,32,24,0,0,8,0,Taste Trait positive,,Aroma Trait positive,,,68
+Ogre's Shadow,1,Essence,64,32,0,32,0,0,,,,,,74
+Phoenix Tear,4,Essence,56,0,24,24,8,0,,Sensation Trait positive,,,,82
+Owlbear Pheremones,2,Essence,64,0,0,0,0,64,,,Aroma Trait negative,,,90
+Daredevil Pepper,1,Plant,64,0,32,0,32,0,,,,,,90
+Geode Citrus,2,Fruit,64,0,16,0,0,48,,,,,,94
+Lazuli Ore,3,Ore,144,64,48,0,0,32,,,,,Sound Trait negative,174
+Shallow Grave Enoki,3,Fungus,192,32,64,64,32,0,,Sensation Trait negative,Aroma Trait negative,,,200
+Chimera Waste,,Essence,96,0,0,64,32,0,,,Aroma Trait negative,,,118
+Jeweled Scarab,,Bug,72,0,24,24,24,0,,,,,,105
+Lustrous Pearl,,Gem,32,0,0,0,32,0,,,,Visual Trait positive,,60
+Silver Dollop,,Slime,96,24,24,24,24,0,,,,,,138
+Pegasus Mite,,Bug,144,96,48,0,0,0,,Sensation Trait negative,,,Sound Trait negative,134
+Sequined Custard,,Slime,48,0,0,32,0,16,,,,Visual Trait positive,,84
+Hoarite,,Mineral,132,55,55,0,22,0,Taste Trait negative,,,Visual Trait positive,,167
+Orchid of the Ice Princess,,Flower,77,11,33,0,33,0,,,Aroma Trait positive,,,116
+Draugr's Tibia,2,Bone,132,0,0,55,55,22,,,,,,184
+Snowflake Spore,,Fungus,88,0,66,0,22,0,Taste Trait negative,,Aroma Trait positive,,,108
+Hellhound Daisy,2,Flower,88,0,22,0,66,0,,,,,,125
+Yeti Antler,1,Bone,88,0,0,88,0,0,Taste Trait negative,,,,,104
+Nether Ore,3,Ore,22,0,0,22,0,0,,,Aroma Trait positive,Visual Trait positive,,51
+Winged Gelatin,2,Slime,66,0,0,0,66,0,,Sensation Trait positive,Aroma Trait negative,,,103
+Blackfrost Lobster,2,Fish,44,0,0,0,0,44,,,Aroma Trait positive,,,104
+Jotunn's Frozen Heart,2,Flesh,66,22,0,0,44,0,,Sensation Trait positive,,,,98
+Direwolf's-Breath Diamond,1,Gem,88,0,44,44,0,0,,,,,,118
+Diamond Salt,2,Mineral,44,33,0,0,0,11,,,,,,85
+Frost Hopper,1,Bug,154,33,33,44,44,0,Taste Trait positive,Sensation Trait negative,,,,196
+Abominable Tarantula,2,Bug,66,0,0,0,0,66,,,,Visual Trait negative,Sound Trait positive,105
+Icicle Pufferfish,2,Fish,198,132,0,66,0,0,,,,Visual Trait negative,Sound Trait negative,210
+Mana Conflagration,4,Pure Mana,275,35,45,55,65,75,,,Aroma Trait negative,Visual Trait negative,,316
+Death's Embrace,4,Plant,132,33,33,33,0,33,,,,,,196
+Mana Blaze,,Pure Mana,150,50,40,30,20,10,,Sensation Trait positive,Aroma Trait positive,,,234
+Gold Dollop,3,Slime,132,33,33,33,33,0,,,,,,176
+Pandemonium Shroom,1,Fungus,66,66,0,0,0,0,Taste Trait positive,,,,Sound Trait negative,72
+Dragonbreath Blossom,2,Flower,44,33,0,0,11,0,Taste Trait positive,,Aroma Trait positive,,,76
+Dragonblood Tick,2,Bug,198,132,66,0,0,0,,Sensation Trait negative,,,Sound Trait negative,174
+Bedazzled Custard,1,Slime,66,0,0,44,0,22,,,,Visual Trait positive,,95
+Dragonfire Pearl,3,Gem,44,0,0,0,44,0,,,,Visual Trait positive,,76
+Dragon Pheromones,2,Essence,88,0,0,0,0,88,,,Aroma Trait negative,,,151
+Widowmaker Pepper,1,Plant,88,0,44,0,44,0,,,,,,126
+Dragon Tear,2,Essence,77,0,33,33,11,0,,Sensation Trait positive,,,,118
+Funeral Pyre Enoki,4,Fungus,264,88,88,44,44,0,,Sensation Trait negative,Aroma Trait negative,,,280
+Amethyst Ore,2,Ore,165,66,66,0,0,33,,,,,Sound Trait negative,206
+Basilisk's Cornea,2,Flesh,22,0,22,0,0,0,Taste Trait positive,Sensation Trait positive,,,,54
+Amphithere's Shadow,1,Essence,88,0,44,44,0,0,,,,,,114
+Magma Beetle,1,Bug,99,0,33,33,33,0,,,,,,124
+Dragonegg Citrus,2,Fruit,88,0,22,0,0,66,,,,,,124
+Dragon Dung,2,Essence,132,0,0,88,44,0,,,Aroma Trait negative,,,173
+Cosmic Quartz,2,Gem,165,66,33,0,66,0,,,,,Sound Trait negative,204
+Space Nautilus's Shell,1,Mineral,88,44,44,0,0,0,,,,,,102
+Xeno Noir,3,Fruit,198,66,0,66,33,33,Taste Trait negative,,,,,236
+Spark of Mana,4,Pure Mana,165,33,33,33,33,33,,,,,,215
+Cosmic Cassava,1,Plant,66,0,66,0,0,0,Taste Trait negative,,,,Sound Trait positive,82
+Xenoplasm,3,Essences,132,0,55,55,22,0,,,,Visual Trait negative,Sound Trait positive,166
+Elder Being's Tusk,2,Bone,88,0,66,0,0,22,,Sensation Trait negative,,,Sound Trait positive,114
+Rotfly Mutant,1,Bug,44,0,0,44,0,0,Taste Trait positive,,,,,74
+Nightmare Pomme,3,Fruit,44,0,33,11,0,0,,,,Visual Trait positive,Sound Trait positive,72
+Body Snatcher's Sloughed Skin,,Flesh,88,0,0,0,66,22,,,,,,132
+Armored Pudding,,Slime,88,44,0,0,44,0,,,,,,115
+Stalking Mold,,Fungus,88,22,0,0,0,66,,,,,,123
+Inverted Bramble-Rose,,Flower,22,22,0,0,0,0,,Sensation Trait positive,,,Sound Trait positive,46
+Barracuda Plant,,Plant,132,22,0,55,0,55,,,,,,172
+Guillotine Eel,,Fish,99,33,33,33,0,0,,,,,,126
+Liquid Metal Ore,,Ore,132,0,44,88,0,0,,Sensation Trait negative,,,,162
+Slaughtermelon,,Fruit,76,0,0,0,76,0,,,,Visual Trait negative,,105
+Platinum Slime,3,Slime,126,42,42,42,0,0,,,,,,178
+Nuclear Shadow,,Essence,168,0,70,70,28,0,,Sensation Trait positive,,,,228
+Witchbramble Vine,3,Plant,168,42,42,42,0,42,,,,,,210
+Mass Grave Enoki,3,Fungus,336,56,112,112,56,0,,Sensation Trait negative,Aroma Trait negative,,,386
+Orchid of the Witch Queen,,Flower,168,28,70,0,70,0,,,Aroma Trait positive,,,248
+Underworld Pomegranate,4,Fruit,224,28,28,28,140,0,Taste Trait positive,,,Visual Trait negative,,332
+Venous Witch-Trap,2,Plant,168,28,0,70,0,70,,,,,,214
+Blightroach,,Bug,126,0,42,42,42,0,,,,,,185
+Lethal Injection Eel,,Fish,126,42,42,42,0,0,,,,,,164
+Sinfandel,,Fruit,280,80,0,80,80,40,Taste Trait negative,,,,,362
+Lich's Femur,,Bone,168,0,0,70,70,28,,,,,,247
+Sorcerite,3,Mineral,168,70,70,0,28,0,Taste Trait negative,,,Visual Trait positive,,232
+Arcane Truffle,3,Fungus,164,0,42,42,42,42,,,,,,236
+Ectoplasm,3,Essence,168,0,70,70,28,0,,,,Visual Trait negative,Sound Trait positive,226
+Cyclops Skull,1,Bone,126,0,0,42,42,42,,,,,,200
+Blackgold Ore,2,Ore,210,84,84,0,0,42,,,,,Sound Trait negative,256
+Arcane Quartz,2,Gem,210,84,0,0,84,42,,,,,Sound Trait negative,264
+Dazzling Mana,4,Pure Mana,210,42,42,42,42,42,,Sensation Trait positive,Aroma Trait positive,,,345
+Mana Vortex,,Pure Mana,210,28,98,28,28,28,Taste Trait positive,,,,Sound Trait positive,400
+Mana Prism,4,Pure Mana,210,28,28,98,28,28,,Sensation Trait positive,,Visual Trait positive,,425
+Mana Heart,4,Pure Mana,210,28,28,28,98,28,Taste Trait positive,,Aroma Trait positive,,,450
+Mana Maelstrom,4,Pure Mana,210,98,28,28,28,28,,,,Visual Trait positive,Sound Trait positive,375
+Hocus Locust,4,Bug,224,28,28,140,28,0,Taste Trait positive,Sensation Trait negative,,,,287
+Mana Singularity,4,Pure Mana,210,28,28,28,28,98,,,Aroma Trait positive,,Sound Trait positive,475
